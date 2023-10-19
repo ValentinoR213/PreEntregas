@@ -168,14 +168,3 @@ if (DecicionRepetir == "si") {
     SiYNo = "Si"
 }
 }
-
-
-
-
-
-
-
-
-
-
-
